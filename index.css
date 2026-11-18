@@ -1,6 +1,22 @@
 *{
-    background-color: darkgreen;
     padding: 10px;
     box-sizing: border-box;
     margin: 0;
+}
+
+#divao{
+    background-color: greenyellow ;
+   width: max-content; 
+   
+}
+
+#zero{
+    font-size: 18px;
+    padding: 12px 27px;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
 }
